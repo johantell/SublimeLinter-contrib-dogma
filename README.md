@@ -1,7 +1,7 @@
 SublimeLinter-contrib-dogma
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-dogma.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-dogma)
+[![Build Status](https://travis-ci.org/mintcore/SublimeLinter-contrib-dogma.svg?branch=master)](https://travis-ci.org/mintcore/SublimeLinter-contrib-dogma)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [dogma](https://github.com/lpil/dogma). It will be used with files that have the “.ex” syntax.
 
